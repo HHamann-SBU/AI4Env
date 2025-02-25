@@ -1,3 +1,11 @@
+
+[![Jupyter Notebook](https://img.shields.io/badge/Launch-Jupyter%20Notebook-blue.svg)](https://nbviewer.org/github/TheAIDojo/AI-for-Climate-Change/tree/main/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-green.svg)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+
 AI4Env includes simple AI/ML examples for an introductory class/tutorial for AI for Climate and the Environment. 
 The examples have been slightly adjusted from:
 
